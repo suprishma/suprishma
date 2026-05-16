@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-#Dedicated to building AI solutions for underrepresented languages, particularly Nepali.
+Dedicated to building AI solutions for underrepresented languages, particularly Nepali.
 
 
 ## 🌐 Socials:
