@@ -1,7 +1,11 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Dedicated to building AI solutions for underrepresented languages, particularly Nepali.
+Computer Engineering student passionate about Nepali NLP, speech recognition, and real-world AI systems.
+
+View Projects
+→
+About Me
 
 
 ## 🌐 Socials:
