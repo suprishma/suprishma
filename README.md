@@ -6,7 +6,7 @@ I am a Computer Engineering student passionate about Nepali NLP, speech recognit
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Suprishma Maharjan) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Suprishma-Maharjan) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suprishmamaharjan@gmail.com) 
 
 ## 🧘 About me:
